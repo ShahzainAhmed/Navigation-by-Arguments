@@ -1,4 +1,4 @@
-# Navigation by Arguments - Method-2
+# Navigation by Arguments - (Method 2)
 
 ## Navigator.pushNamed()
 ### Use initialRoute and routes with this method
